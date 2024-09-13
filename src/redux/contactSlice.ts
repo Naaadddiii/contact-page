@@ -1,4 +1,3 @@
-// src/redux/contactSlice.ts
 import { createSlice, PayloadAction } from "@reduxjs/toolkit";
 
 interface Contact {
